@@ -21,7 +21,7 @@ do
 rm *.xxx >/dev/null 2>&1
 clear
 echo -e "\e[1;31m"
-figlet 'phone bomb!' -f banner
+figlet "phone bomb!"-f banner
 echo -e "\e[1;34m Created By \e[1;32m"
 figlet 'mr.dark' -f smslant
 echo -e "\e[4;34m This phone Bomber Was Created By dark hat hacker \e[0m"
